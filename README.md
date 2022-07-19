@@ -1,1 +1,3 @@
-# Sample_ML_Repo
+# This is a Sample Repo for Teaching
+
+In this GitHub repository we make a few files. 
